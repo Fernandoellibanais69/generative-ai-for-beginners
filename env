@@ -1,0 +1,12 @@
+# OpenAI Provider
+OPENAI_API_KEY='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'
+
+## Azure OpenAI
+AZURE_OPENAI_API_VERSION='2024-02-01' # Default is set!
+AZURE_OPENAI_API_KEY='<add your AOAI key here>'
+AZURE_OPENAI_ENDPOINT='<add your AOIA service endpoint here>'
+AZURE_OPENAI_DEPLOYMENT='<add your chat completion model name here>' 
+AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT='<add your embeddings model name here>'
+
+## Hugging Face
+HUGGING_FACE_API_KEY='<add your HuggingFace API or token here>'
